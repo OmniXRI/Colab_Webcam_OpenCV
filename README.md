@@ -9,3 +9,6 @@
 模式一：使用網路攝影機連續取像並顯示，按下取像鍵後才使用OpenCV進行自定義影像處理及顯示結果。  
 
 模式二：使用網路攝影機連續取像並顯示，在取像過程同時執行OpenCV自定義影像處理及顯示結果。  
+
+點擊下列連結可直接以Google Colab開啟程式並執行。  
+https://github.com/OmniXRI/Colab_Webcam_OpenCV/blob/main/Colab_Webcam_OpenCV.ipynb  
